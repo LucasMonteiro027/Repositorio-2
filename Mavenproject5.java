@@ -15,7 +15,7 @@ public class Mavenproject5 {
 
     public static void main(String[] args) {
     Scanner entrada = new Scanner(System.in);
-
+        
         //Solicitar o valor do produto no exterior.
         System.out.print("Digite o valor do produto no exterior: ");
         double valorProduto = entrada.nextDouble();
